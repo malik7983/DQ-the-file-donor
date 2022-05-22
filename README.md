@@ -17,3 +17,11 @@
 Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
+## Deploy
+You can deploy this bot anywhere.
+
+
+
+<a href="https://heroku.com/deploy?template=https://github.com/malik7983/DQ-the-file-donor">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
